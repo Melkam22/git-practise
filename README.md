@@ -1,0 +1,3 @@
+# git-practise
+
+It is a git practise of using all commands from the command line ...
